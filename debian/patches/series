@@ -1,0 +1,3 @@
+spelling-error.patch
+correct-SIG-confusion.patch
+fix-manpage-has-errors-from-pod2man.patch
